@@ -11,6 +11,7 @@ function Projects() {
     },
 
     // Add more projects here
+    //<img src={`/portfolio-site/${project.image}`} alt={project.title} /> // Hardcoded the base path
   ];
 
   return (
@@ -19,7 +20,7 @@ function Projects() {
       <div className="projects-grid">
         {projectList.map((project, index) => (
           <div className="project-card" key={index}>
-            <img src={`/portfolio-site/${project.image}`} alt={project.title} />
+            <img src={`/portfolio-site/${project.image}`} alt={project.title} /> 
             <h3 className="project-name">{project.title}</h3>
             <p className="project-tech">{project.tech}</p>
             <p className="project-text">{project.text}</p>

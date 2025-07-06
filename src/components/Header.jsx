@@ -1,4 +1,4 @@
-import './Header.css'; // We’ll create this next
+import './Header.css'; 
 
 function Header() {
   return (
@@ -8,9 +8,10 @@ function Header() {
       <p className="description">
         I’m a passionate backend developer focused on building clean, fast, and secure APIs using PHP, Laravel, and PostgreSQL.
       </p>
-      <a href="/resume.pdf" download className="resume-button">
-        Download Resume
-      </a>
+      <a href={`${process.env.PUBLIC_URL}/resume.pdf`} download className="resume-button">
+  Download Resume
+</a>
+
     </section>
   );
 }
