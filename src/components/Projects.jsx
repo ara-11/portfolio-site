@@ -4,7 +4,7 @@ function Projects() {
   const projectList = [
     {
       title: 'Simple Inventory System',
-      image: 'project1.png', // Put this image in public/
+      image: <img src="/project1.png" alt="Project 1" className="project-image" />, 
       tech: 'PHP, PostgreSQL, React',
       text: 'You can visit my project frontend with these credentials: \n\nUsername: admin \nPassword: admin123',
       link: 'https://github.com/ara-11/inventory-backend-api'
