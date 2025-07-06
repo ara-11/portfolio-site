@@ -22,6 +22,7 @@ function Projects() {
             <img src={`/${project.image}`} alt={project.title} className="project-image" />
             <h3 className="project-name">{project.title}</h3>
             <p className="project-tech">{project.tech}</p>
+            <p className="project-text">{project.text}</p>
             <a href={project.link} target="_blank" className="project-button">View Project</a>
           </div>
         ))}
