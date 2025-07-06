@@ -8,9 +8,10 @@ function Header() {
       <p className="description">
         I’m a passionate backend developer focused on building clean, fast, and secure APIs using PHP, Laravel, and PostgreSQL.
       </p>
-      <a href={`${process.env.PUBLIC_URL}/resume.pdf`} download className="resume-button">
+<a href="/portfolio-site/resume.pdf" download className="resume-button">
   Download Resume
 </a>
+
 
     </section>
   );
