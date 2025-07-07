@@ -26,8 +26,9 @@ function Projects() {
             <p className="project-text">{project.text}</p>
             <a href={project.link} target="_blank" className="project-button">View Project</a>
           </div>
-        ))}
-      </div>
+        ))
+        }
+        </div>
     </section>
   );
 }
