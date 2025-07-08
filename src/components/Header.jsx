@@ -41,7 +41,7 @@ function Header() {
       </button>
 
       {/* Resume Button */}
-      <a href="/portfolio-site/resume.pdf" download className="resume-button">
+      <a href="/portfolio-site/Duco, Ara Mae - Resume.pdf" download className="resume-button">
         Download Resume
       </a>
     </section>
