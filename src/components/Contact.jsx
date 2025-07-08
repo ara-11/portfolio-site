@@ -5,7 +5,7 @@ function Contact() {
     <section className="contact-section">
       <h2 className="contact-title">Get in Touch</h2>
       <p className="contact-description">
-        I’m open to freelance work, internships, or junior dev roles. Let’s talk!
+        I’m open to internships, or junior dev roles. Let’s talk!
       </p>
 
       <div className="contact-links">
