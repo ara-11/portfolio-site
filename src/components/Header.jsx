@@ -11,19 +11,19 @@ function Header() {
   return (
     <section className="header">
       <h1 className="name">Ara Mae Duco</h1>
-      <h2 className="title">Junior Backend Developer | PHP, MySQL, REST APIs</h2>
+      <h2 className="title">Aspiring Junior Backend Developer | PHP, MySQL, REST APIs</h2>
 
       {/* Description Block */}
       <div className={`description-container ${expanded ? 'expanded' : ''}`}>
         <div className="description">
           <p>
-            I'm a passionate backend developer with hands-on experience building RESTful APIs using PHP and MySQL.
+            I'm a passionate aspiring backend developer with hands-on experience building RESTful APIs using PHP and MySQL.
             I’ve developed full-stack applications like an inventory management system, where I implemented user authentication,
             CRUD operations, and connected the backend to a React frontend.
           </p>
 
           <p>
-            I leverage online documentation, open-source resources, and tools like ChatGPT to learn and solve problems effectively.
+            I leverage online documentation, open-source resources, and tools like Generative AI to learn and solve problems effectively.
             My focus is on writing clean, functional backend code and continuously improving my understanding of backend architecture,
             security, and database management.
           </p>
