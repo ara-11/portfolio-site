@@ -1,0 +1,39 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+body {
+  background-color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.glow-border {
+  display: inline-block;
+  border-radius: 50%;
+  background: transparent;
+  box-shadow: 0 0 20px rgba(196, 59, 243, 0.6),
+              0 0 40px rgba(196, 59, 243, 0.4),
+              0 0 60px rgba(196, 59, 243, 0.3);
+}
+
+.glow-border img {
+  border: 2px solid #c43bf3; /* 🔴 pink border like in your image */
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  /*object-fit: cover;*/
+}
+
+.icon-row {
+  display: flex;
+  justify-content: center;
+}
+.icon-row a {
+  transition: transform 0.2s, color 0.2s;
+}
+
+.icon-row a:hover {
+  transform: scale(1.2);
+  color: #5f8ae6 !important; /*  */
+}
