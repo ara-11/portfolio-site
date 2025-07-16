@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
   <rect width="31.88" height="32" fill="#ffffff"/>
   <text x="50" y="65" font-size="65" text-anchor="middle" fill="#0a0097ff" font-family="Arial, Helvetica, sans-serif" font-weight="bold">A</text> 
+<<<<<<< HEAD
 </svg>
+=======
+</svg>
+>>>>>>> 19fe5065589190779c27c6017c9a982814dfad8a
