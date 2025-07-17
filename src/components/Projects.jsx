@@ -24,12 +24,13 @@ function Projects() {
     ),
     image: projectImg1,
     },
-    {
-      title: 'Netflix Clone',
-      description: 'React frontend with movie data and filtering, styled with Bootstrap.',
-      description2: 'React frontend with movie data and filtering, styled with Bootstrap.',
-      image: projectImg2,
-    },
+{
+  title: 'Netflix Clone',
+  description: 'A beginner-friendly Netflix-style React app with Firebase login and movie data from TMDB API.',
+  description2: 'A beginner-friendly Netflix-style React app with Firebase login and movie data from TMDB API. Still under improvement. Live Demo: https://moovix-clone.firebaseapp.com',
+  image: projectImg2,
+},
+
   ];
 
   return (
