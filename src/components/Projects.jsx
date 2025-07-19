@@ -49,7 +49,7 @@ function Projects() {
                     className="btn btn-outline-primary btn-sm mt-auto"
                     onClick={() => setSelectedProject(project)}
                   >
-                    View Project
+                    View Project Image
                   </button>
                 </div>
               </div>
