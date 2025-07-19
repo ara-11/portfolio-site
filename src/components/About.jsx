@@ -13,7 +13,6 @@ const techStack = [
   { icon: <SiReact color="#61DAFB" size={40} />, label: 'ReactJS' },
   { icon: <SiBootstrap color="#7952B3" size={40} />, label: 'Bootstrap' },
   { icon: <SiPhp color="#777BB4" size={40} />, label: 'PHP' },
-  { icon: <SiLaravel color="#FF2D20" size={40} />, label: 'Laravel' },
   { icon: <SiMysql color="#00758F" size={40} />, label: 'MySQL' },
   { icon: <SiPostgresql color="#336791" size={40} />, label: 'PostgreSQL' },
   { icon: <SiSpringboot color="#6DB33F" size={40} />, label: 'Spring Boot' },
