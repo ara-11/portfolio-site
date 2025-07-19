@@ -26,7 +26,7 @@ function Projects() {
     },
 {
   title: 'Netflix Clone',
-  description: 'A beginner-friendly Netflix-style React app with Firebase login and movie data from TMDB API.',
+  description: 'A beginner-friendly Netflix-style React app with movie data from TMDB API.',
   description2: 'A beginner-friendly Netflix-style React app with movie data from TMDB API. Still under improvement. Live Demo: https://netflix-clone-d95b6.web.app/',
   image: projectImg2,
 },
