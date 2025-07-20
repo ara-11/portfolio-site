@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="31.88" height="32" fill="#ffffff"/>
-  <text x="50" y="65" font-size="65" text-anchor="middle" fill="#0a0097ff" font-family="Arial, Helvetica, sans-serif" font-weight="bold">A</text> 
-<<<<<<< HEAD
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#800080" />
+  <text
+    x="16"
+    y="22"
+    text-anchor="middle"
+    font-size="22"
+    fill="white"
+    font-weight="bold"
+    font-family="Arial, sans-serif"
+  >
+    A
+  </text>
 </svg>
-=======
-</svg>
->>>>>>> 19fe5065589190779c27c6017c9a982814dfad8a
