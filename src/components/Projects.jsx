@@ -27,7 +27,18 @@ function Projects() {
 {
   title: 'Netflix Clone',
   description: 'A beginner-friendly Netflix-style React app with movie data from TMDB API.',
-  description2: 'A beginner-friendly Netflix-style React app with movie data from TMDB API. Still under improvement. Live Demo: https://flixnet-mb.web.app/',
+  description2: (
+    <>
+    A beginner-friendly Netflix-style React app with movie data from TMDB API. Still under improvement. Live Demo:&nbsp;
+    <a
+    href="https://personal-project-de323.web.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    >
+      https://personal-project-de323.web.app/
+      </a>
+    </>
+  ),
   image: projectImg2,
 },
 
