@@ -20,13 +20,13 @@ function AboutSummary() {
   onClick={handleToggle}
 >
       <p className="mb-0">
-        I'm a passionate aspiring backend developer with hands-on experience building RESTful APIs using PHP and MySQL.
-        I’ve developed full-stack applications like an inventory management system, where I implemented user authentication,
-        CRUD operations, and connected the backend to a React frontend. I leverage online documentation, open-source resources,
-        and tools like Generative AI to learn and solve problems effectively. My focus is on writing clean, functional backend code
-        and continuously improving my understanding of backend architecture, security, and database management. A recent graduate
-        of a 2-year Information Technology program (Applied Computer Science), actively building real-world backend projects to
-        sharpen my skills and prepare for industry roles.
+Aspiring Junior Developer with an Associate Degree in Information Technology 
+(Applied Computer Science) and hands-on experience in backend and full-stack development. 
+Completed a 350-hour internship focused on PHP backend development, building RESTful APIs, 
+writing clean documentation, and applying unit testing practices. 
+Currently working on full-stack projects using React, Spring Boot, and PostgreSQL to strengthen 
+practical skills. Curious, adaptable, and committed to continuous learning — with a mindset focused 
+not only on what I can build, but who I can become in the process.
       </p>
     </div>
   );
