@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../assets/profile.jpg'; // replace with your image
+import profileImage from '../assets/profile.jpg'; 
 import profileResume from '../assets/Duco-Ara-Mae-Resume.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
@@ -34,7 +34,7 @@ function HeroSection() {
 
       <div className="mt-4 mt-md-0">
         <div className="glow-border mx-auto">
-          <img src={profileImage} alt="Your profile" className="rounded-circle" width="250" height="250" />
+          <img src={profileImage} alt="Your profile" className="rounded-circle" width="150" height="150" />
         </div>
       </div>
     </div>
