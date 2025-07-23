@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ara-11.github.io/ara-mae-duco/",
+  "homepage": "https://ara-11.github.io/portfolio-site/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
